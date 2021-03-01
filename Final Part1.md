@@ -6,15 +6,17 @@ Currently I plan to use the public data from ‘Google Trends’ to measure the 
 
 Also, I found an excel dataset from ‘Google’s Community Mobility Reports’ and filtered the data of Allegheny County (375 rows). I will concentrate on ‘retail_and_recreation_percent_change_from_baseline’ and ‘grocery_and_pharmacy_percent_change_from_baseline’ to measure the impact of COVID to people’s mobility to restaurants, shopping centers and so on.
 
-#Outline
+# Outline
 1. Who choose to use food delivery?
 Content includes: how many people choose to use food delivery, analyzing based on different demographic groups.
 ![Image1](who.jpg)
 2. Why choose to use food delivery?
 Content includes: Ranking of the main reasons to choose this service.
-(Why.jpg)
+![Image2](Why.jpg)
 3. Which apps is the best?
 Content includes: Comparison for different apps usually used in Allegheny county. I plan to compare the number of registered user, charge method, provided services. 
+![Image3](which.jpg)
 4. pre and post COVID, any change?
 1) the interest changes of each food delivery company
 2) people’s changing demand for physical grocery and eating in restaurants
+![Image4](interest.jpg)
