@@ -5,6 +5,7 @@ For many industries, the impact of COVID has largely changed their operating mod
 Currently I plan to use the public data from ‘Google Trends’ to measure the interest in each food delivery company within PA, which helps to measure their popularity. However, I’m still working on whether I can narrow this group of data down to Allegheny County.
 
 Also, I found an excel dataset from ‘Google’s Community Mobility Reports’ and filtered the data of Allegheny County (375 rows). I will concentrate on ‘retail_and_recreation_percent_change_from_baseline’ and ‘grocery_and_pharmacy_percent_change_from_baseline’ to measure the impact of COVID to people’s mobility to restaurants, shopping centers and so on.
+![Data](data.xlsx)
 
 # Outline
 1. Who choose to use food delivery?
