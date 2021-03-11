@@ -59,4 +59,6 @@ Feedback3:
 6. I wanna know whether the quality of food delivery service will be continuing affected in the future, since COVID may not recoverred in a short term.
 
 # Revisions I plan to do for next week
-1. 
+1. Add a graph of people's changing demand for food delivery services. I found the dataset from Google mobility report, but i still need to decide the scope of data. Whether it's more helpful to concentrate on Allegeny county or PA or the whole US? I plan to create this graph as a line chart, which can display the trend of demand changing.
+2. Enrich the platforms comparision section. I will pick at least five measurable aspect to rate the platform and finalized the current radar chart. Also, to better explain the aspects such as membership benefits, I will add these columns into the comparision table and highlight all numbers. 
+3. Create all graphs using flourish and generate the final report using canva. 
