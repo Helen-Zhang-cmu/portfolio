@@ -12,3 +12,16 @@ For many industries, the impact of COVID has largely changed their operating mod
 2. Google’s Community Mobility Reports ![Community Mobility Reports](data.xlsx)
 3. Statista
 
+# The demographic of food delivery customer
+![Who choose food delivery](who.jpg)
+
+# The reason why people choose it
+![Why choose food delivery](Why.jpg)
+
+# Comparision of different food delivery platform
+![comparision table](which.jpg)
+![Radar](Food delivery Comparision.png)
+
+# COVID impact
+![Interest change of each playform](interest.png)
+![]
