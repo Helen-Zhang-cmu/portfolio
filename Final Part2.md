@@ -20,6 +20,7 @@ For many industries, the impact of COVID has largely changed their operating mod
 
 # Comparision of different food delivery platform
 ![comparision table](which.jpg)
+
 ![Radar](Food delivery Comparision.png)
 
 # COVID impact
