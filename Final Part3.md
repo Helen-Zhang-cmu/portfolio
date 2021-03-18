@@ -46,3 +46,13 @@ I used the results from an experiment as my reference to create the combined and
 5. Call to action
 1) Give it a try to use food delivery if you didn't use it before. It can be a powerful service on the aspect of time saving and limited travel ability
 2) Think about whether the one you select is the most suitable for you. There are lots of amazing platforms may be valuable for you to find.
+
+# References
+Pelt,Kate Van. 'Food Delivery Comparison: Grubhub Vs. Doordash Vs. Postmates Vs. Uber Eats Vs. Delivery.com', Dec 30th, 2020. https://www.moneyunder30.com/food-delivery-comparison
+Rayome, Alison DeNisco. 'Best food delivery service: DoorDash, Grubhub, Uber Eats and more compared', May 13th, 2020. https://www.cnet.com/news/best-food-delivery-service-doordash-grubhub-uber-eats-and-more-compared/
+Sumagaysay, Levi. 'The pandemic has more than doubled food-delivery apps’ business. Now what?', Nov 25th, 2020. https://www.marketwatch.com/story/the-pandemic-has-more-than-doubled-americans-use-of-food-delivery-apps-but-that-doesnt-mean-the-companies-are-making-money-11606340169
+
+# Final outcome
+https://carnegiemellon.shorthandstories.com/food-delivery/index.html
+
+
