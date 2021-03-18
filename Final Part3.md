@@ -36,7 +36,7 @@ This can be the most important graph in my project, since I chose the platforms 
 
 4. Comparation of the five selected platforms
 I used the results from an experiment as my reference to create the combined and seperate radar charts. Each of the platform showed special advantage on different aspects.
-![combine](final_combine.png)
+![combined](final_combined.png)
 ![1](final_Uber Eats.png)
 ![2](final_DoorDash.png)
 ![3](final_Postmates.png)
